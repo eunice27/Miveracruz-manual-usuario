@@ -1,45 +1,87 @@
 # Iniciar trámite
 
 ## ¿Cómo inicio un trámite?
-1. Dirígete a la pestaña “Trámites y servicios”.
+1. Para iniciar un trámite dirígete a la pestaña “Trámites y servicios”, ubicado en el menú de navegación y da clic.
 
 ![imagen boton trámites y servicios](/img/tramites-servicios.png)
 
-2. Ingresa en buscador el nombre del trámite que deseas realizar o búscalo dentro del catálogo de trámites.
+2. A continuación se mostrará la siguiente pantalla donde encontrarás el catálogo de los trámites, aquí podrás buscar y filtrar los trámites por diferentes categorías.
 
-![imagen buscador trámites y servicios](/img/buscador-tramites.png)
+![imagen buscador trámites y servicios](/img/catalogo-tramites.png)
 
-3. Los trámites que puedes realizar dentro de la plataforma se indican con “En línea”.
+3. Los trámites que puedes iniciar en la plataforma de Mí Veracruz están indicados como “En línea”.
 
-![imagen catalogo trámites y servicios](/img/catalogo-tramites.png)
+![imagen catalogo trámites y servicios](/img/tramites-linea.png)
 
-4. Selecciona el trámite que realizarás y da clic en “Iniciar trámite”.
+4. Selecciona el trámite que deseas iniciar y da clic en el botón ver detalle.
 
-![imagen boton iniciar tramite](/img/iniciar-tramite.png)
+![imagen boton iniciar tramite](/img/conoce-mas.png)
 
-5. Carga los archivos de los requisitos dando clic en “Elige tu archivo”.
+5. Te dirigira a la siguiente pantalla donde encontras las ficha del trámite, da clic en el botón ”Iniciar trámite”.
 
-![imagen boton elegir archivo](/img/elegir-archivo.png)
+![imagen boton elegir archivo](/img/ficha-iniciar-tramite.png)
 
-6. Llena los campos del formulario.
+6. Carga los archivos solicitados o elígelos desde tu expediente digital.
 
-![imagen formulario](/img/formulario.png)
+![imagen formulario](/img/cargar-archivos.png)
 
-7. Confirma el envío del trámite.
+7. Llena los campos solicitados en el formulario.
+
+![imagen boton crear tramite](/img/formulario.png)
+
+8. Da clic en el botón “Crear trámite” y confirma el envío de tu trámite.
 
 ![imagen boton crear tramite](/img/crear-tramite.png)
 
 
-
 ## ¿Cómo cargo un archivo?
 
-En esta sección subirás todos los requisitos que solicitan para tu trámite, cada archivo no deberá exceder 2 MB, y el total de los archivos cargados, no deberá exceder los 8 MB. Los formatos permitidos son .pdf, .jpe .jpeg .jpg.
+En la sección de documentos, podrás elegir cargar los archivos solicitados para tu trámite.
+Cada archivo no deberá exceder 2 MB, y el total de los archivos cargados, no deberá exceder los 8 MB.
+Los formatos permitidos son .pdf, .jpe .jpeg .jpg
 
-1. Da clic en “Elige tu archivo”.
 
-![imagen boton elegir archivo](/img/elegir-archivo.png)
+1. Para cargar los archivos desde tu computadora, selecciona la opción “subir archivo” y da clic en el botón “Elegir tu archivo”,  selecciona el archivo que deseas subir y da clic en abrir.
 
-2. Selecciona el archivo que desear subir y da clic en “Abrir”, así con todos los requisitos.
+![imagen formulario](/img/subir-archivo.png)
+
+
+## ¿Cómo funciona el expediente único digital?
+
+El expediente único digital, es una herramienta a la que puedes recurrir cuando subes archivos, ya que, si con anterioridad has subido archivos, y estos son requeridos para otro trámite, podrás cargarlos sin la necesidad de buscar en tu computadora.
+
+1. En la sección de documentos  selecciona la opción “Elegir de mi expediente digital”.
+
+![imagen formulario](/img/opcion-exp-digital.png)
+
+2. Se desplegará la siguiente pantalla donde podrás visualizar y seleccionar el documento que requieras.
+
+![imagen formulario](/img/modal-exp-electronico.png)
+
+
+
+## ¿Cómo pago mi trámite?
+
+1. Cuando un trámite está listo para ser pagado, te aparecerá el siguiente estatus
+
+![imagen boton registrate](/img/ver-detalle-pago.png)
+
+2. Da clic en “ver detalles”
+3. Verás el botón “pagar”, da clic.
+
+![imagen boton registrate](/img/boton-pagar.png)
+
+
+Se te redireccionará a nuestra página de tesorería virtual.
+Una vez dentro de la página, verás el desglose de tu pago, podrás pagar en línea o generar una referencia para realizar el pago en algún banco. 
+Para la primera opción, da clic en “Pago en línea”
+
+![imagen boton registrate](/img/pago-linea.png)
+
+Para la segunda opción, ingresa tu correo electrónico y da clic en “generar”.
+
+![imagen boton registrate](/img/pago-banco.png)
+
 
 
 ## ¿Cómo descargar mi documento final?

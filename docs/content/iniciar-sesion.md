@@ -1,14 +1,12 @@
 # Iniciar sesión	
 
 ## ¿Cómo inicio sesión?
-1. Ingresa a https://miveracruz.veracruzmunicipio.gob.mx/
-2. Da clic en “Iniciar sesión”.
+1.  Para iniciar sesión en Mi Veracruz ingresa a [https://miveracruz.veracruzmunicipio.gob.mx/](https://miveracruz.veracruzmunicipio.gob.mx/)
+2. Da clic en el botón "Iniciar sesión" ubicado en la parte superior derecha de la página.
 
-![imagen boton iniciar sesion](/img/iniciar-sesion.png)
+![imagen boton iniciar sesion](../img/iniciar-sesion.png)
 
-3. Ingresa tu usuario, que es tu CURP.
-4. Ingresa tu contraseña.
+3. A continuación ingresa tu usuario, que es tu CURP o RFC, tu contraseña, y da clic en el botón de “Iniciar”, para ingresar a Mi Veracruz.
 
-![imagen campos de login](/img/login.png)
+![imagen campos de login](../img/login.png)
 
-5. Da clic en “Iniciar”.
